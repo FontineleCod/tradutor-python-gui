@@ -12,10 +12,10 @@ Este é um tradutor simples feito em Python, com interface gráfica utilizando a
 
 Tecnologias Utilizadas
 
-- **Python** 3.x
-- **tkinter** (para a interface gráfica)
-- **deep-translator** (para a tradução)
-- **PyInstaller** (para criar o executável)
+- Python
+- tkinter (para a interface gráfica)
+- deep-translator (para a tradução)
+- PyInstaller (para criar o executável)
 
 ---
 
@@ -107,5 +107,3 @@ Autor
 [GitHub](https://github.com/FontineleCod)  
 [LinkedIn](https://www.linkedin.com/in/marcelo-fontinele-1b2354165/)
 ```
-
-Agora é só copiar e colar esse conteúdo no arquivo `README.md` do seu repositório, e pronto! Se quiser adicionar alguma imagem, logo, ou algum link adicional, é só editar o conteúdo conforme necessário. 😎🚀
